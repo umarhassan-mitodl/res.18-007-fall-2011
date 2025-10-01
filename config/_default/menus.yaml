@@ -1,0 +1,29 @@
+leftnav:
+- identifier: c4026cb5-e0a6-38f4-a7f6-1f66897500ed
+  name: 'Part I: Vector Arithmetic'
+  pageRef: /video_galleries/part-i
+  weight: 10
+- identifier: 8e4866a4-3ba4-db3d-0267-f6a59263502c
+  name: 'Part II: Vector Calculus'
+  pageRef: /video_galleries/part-ii
+  weight: 20
+- identifier: 852f6946-7e15-354e-2b25-115e4cf094f4
+  name: 'Part III: Partial Derivatives'
+  pageRef: /video_galleries/part-iii
+  weight: 30
+- identifier: 267e4f75-a935-cc96-180a-0ef9ef4ae689
+  name: 'Part IV: Matrix Algebra'
+  pageRef: /video_galleries/part-iv
+  weight: 40
+- identifier: 46ce24ec-2b1e-1b1a-3a53-bac28cabfc02
+  name: 'Part V: Multiple Integration'
+  pageRef: /video_galleries/part-v
+  weight: 50
+- identifier: ce4e61e5-fe97-e496-1d45-c844a0290e31
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 60
+- identifier: 04166a17-227e-4ab6-99f7-afe449150d38
+  name: IN MEMORY OF HERB GROSS
+  pageRef: /external-resources/in-memory-of-herb-gross_04166a17-227e-4ab6-99f7-afe449150d38
+  weight: 1000
